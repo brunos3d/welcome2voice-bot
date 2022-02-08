@@ -1,6 +1,8 @@
 # welcome2voice-bot
 
-🤖 NODE.TS - Play a welcome sound every time someone joins the voice channel.
+🤖 NODE.TS - Play a [welcome sound](https://www.youtube.com/watch?v=W8ab00LC-JQ) every time someone joins the voice channel.
+
+# 🤖 [INVITE-ME](https://discord.com/oauth2/authorize?client_id=613338123723603990&scope=bot&permissions=3146760) 🤖
 
 ## Installation
 
