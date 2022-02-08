@@ -1,14 +1,14 @@
-# discord-bot-typescript-boilerplate
+# welcome2voice-bot
 
-🤖 NODE.TS - Start your next discord bot project in seconds.
+🤖 NODE.TS - Play a welcome sound every time someone joins the voice channel.
 
 ## Installation
 
 Clone project
 
 ```
-git clone git@github.com:BrunoS3D/discord-bot-typescript-boilerplate.git your-app-name
-cd your-app-name
+git clone git@github.com:BrunoS3D/welcome2voice-bot.git
+cd welcome2voice-bot
 ```
 
 Install dependencies

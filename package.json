@@ -10,9 +10,11 @@
     "deploy": "yarn && yarn build && yarn start"
   },
   "dependencies": {
+    "@discordjs/opus": "^0.7.0",
     "cross-env": "^7.0.3",
     "discord.js": "^12.2.0",
-    "env-cmd": "^10.1.0"
+    "env-cmd": "^10.1.0",
+    "ytdl-core": "^4.10.1"
   },
   "devDependencies": {
     "@types/node": "^16.4.10",
