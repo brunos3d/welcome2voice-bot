@@ -3,7 +3,7 @@ version: '3.7'
 services:
   bot:
     restart: always
-    container_name: discord-bot-typescript-boilerplate
+    container_name: welcome2voice-bot
     build:
       context: .
       dockerfile: Dockerfile
