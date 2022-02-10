@@ -4,6 +4,10 @@
 
 # 🤖 [INVITE-ME](https://discord.com/oauth2/authorize?client_id=613338123723603990&scope=bot&permissions=3146760) 🤖
 
+## How to use
+
+After installing the bot on your discord server, just join a voice channel and the bot will automatically play the welcome sound. If nothing happens, make sure the bot has the necessary permissions to connect to the voice channel.
+
 ## Installation
 
 Clone project
