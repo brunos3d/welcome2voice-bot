@@ -8,7 +8,7 @@
 
 After installing the bot on your discord server, just join a voice channel and the bot will automatically play the welcome sound. If nothing happens, make sure the bot has the necessary permissions to connect to the voice channel.
 
-## Installation
+## Installation (Development)
 
 Clone project
 
